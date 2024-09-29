@@ -9,7 +9,11 @@ const nextConfig = {
       {
         protocol: 'https',
         hostname: 'content-cardinal-225.convex.cloud'
-      }
+      },
+      {
+        protocol: 'https',
+        hostname: 'img.clerk.com'
+      },
     ]
   }
 };
